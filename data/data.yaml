@@ -1,0 +1,4 @@
+train: data/train/images
+val: data/valid/images
+nc: 3
+names: [ 'cockroach', '-', 'cockroach_baby']
